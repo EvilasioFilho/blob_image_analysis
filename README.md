@@ -4,6 +4,8 @@ A robust tool for analyzing particle distributions and aggregation patterns in m
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![DOI](https://zenodo.org/badge/998650938.svg)](https://doi.org/10.5281/zenodo.15621111)
+
 
 ## Overview
 
