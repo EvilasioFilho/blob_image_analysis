@@ -1,6 +1,6 @@
 # Particle Detection and Aggregation Analysis
 
-A tool for analyzing particle distributions and aggregation patterns in microscopy images.
+A robust tool for analyzing particle distributions and aggregation patterns in microscopy images.
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
@@ -15,7 +15,7 @@ The tool identifies particles in microscopy images, analyzes their size distribu
 
 ## Features
 
-- **Particle Detection**: Robust detection of particles using distance transform and watershed segmentation
+- **Particle Detection**: Robust detection of particles using distance transform
 - **Morphological Analysis**: Measurement of particle size, shape, and circularity
 - **Aggregation Analysis**: Identification of particle aggregates and isolation status
 - **Nearest Neighbor Analysis**: Calculation of nearest neighbor distances for spatial distribution analysis
@@ -88,14 +88,6 @@ The script generates:
 ## Calibration
 
 The default pixel-to-micrometer conversion is set to 100/130 (100 pixels = 130 μm). You can adjust this in the code to match your microscope's calibration.
-
-## Citation
-
-If you use this code in your research, please cite our paper:
-
-```
-Author, A., Author, B., & Author, C. (2025). Title of your paper. Journal Name, Volume(Issue), pages. https://doi.org/xxx
-```
 
 ## License
 
