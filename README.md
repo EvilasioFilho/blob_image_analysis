@@ -6,7 +6,6 @@ A robust tool for analyzing particle distributions and aggregation patterns in m
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![DOI](https://zenodo.org/badge/998650938.svg)](https://doi.org/10.5281/zenodo.15621111)
 
-
 ## Overview
 
 This repository contains the code used for particle detection and aggregation analysis.
